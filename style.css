@@ -1,0 +1,30 @@
+.page-wrapper{
+  
+   width:70%;
+    margin: auto;
+    height:77vh;
+    background-color: burlywood;
+    margin-top: 65px;
+}
+.top-box{
+    width: 100%;
+    height: 10vh;
+    background-color: gray;
+    margin: 10px auto;
+}
+.box{
+    width:205px;
+    height: 150px;
+    display: inline-block;
+    margin: 11px;
+    border: 1px;
+    border: 1px solid;
+
+}
+
+.bottom-box{
+    width: 100%;
+    height: 10vh;
+    background-color: gray;
+    margin-bottom: 10px;
+}
